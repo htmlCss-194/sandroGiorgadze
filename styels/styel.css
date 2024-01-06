@@ -1,0 +1,49 @@
+#headerText{
+background-color: aqua;
+}
+#go {
+background-color: chartreuse;
+}
+#photo1{
+    width: 400px;
+    height: 388px;
+    top: 3256px;
+    left: 96px;
+    border-radius: 6px;
+    margin-left: 20px;
+}
+#photo2{
+
+    width: 300px;
+    height: 388px;
+    top: 3256px;
+    left: 520px;
+    border-radius: 6px;
+}
+
+#photo3{
+    width: 300px;
+    height: 388px;
+    top: 3256px;
+    left: 520px;
+    border-radius: 6px;
+}
+#SG {
+border: none;
+margin-left: 300px;
+}
+#SG th{
+    background-color: bisque;
+}
+#g2{
+    background-color: blue;
+    color: brown;
+}
+#g3{
+    background-color: blue;
+    color: greenyellow;
+}
+#g4{
+    background-color: goldenrod;
+    color: grey; 
+}
